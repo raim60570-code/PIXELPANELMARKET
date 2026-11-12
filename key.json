@@ -18,13 +18,6 @@
   },
   "BannedHWIDs": {},
   "Keys": {
-    "DPMods-1Y0F8K": {
-      "hwid": "RESET",
-      "expireDate": "Life",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
-    },
     "DPMods-LACB1I": {
       "hwid": "RESET",
       "expireDate": "Life",
