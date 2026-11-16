@@ -5,7 +5,7 @@
     "getKeyUrl": "https://t.me/BHAYNXESPORTSBOT",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": false,
+    "maintenanceMode": true,
     "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
@@ -13,7 +13,7 @@
     ],
     "title": "PIXEL PANEL MARKET",
     "updateMsg": "New DPMods version available! Please update.",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "https://t.me/BHAYNXESPORTSBOT"
   },
   "BannedHWIDs": {},
